@@ -1,0 +1,6970 @@
+{
+	"textures": [
+		{
+			"image": "lizard",
+			"format": "RGBA8888",
+			"size": {
+				"w": 289,
+				"h": 283
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "doors_all.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 35
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 35
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 35
+					}
+				},
+				{
+					"filename": "weapon_big_hammer.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 37
+					},
+					"frame": {
+						"x": 0,
+						"y": 35,
+						"w": 10,
+						"h": 37
+					}
+				},
+				{
+					"filename": "big_demon_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 22,
+						"h": 34
+					},
+					"frame": {
+						"x": 10,
+						"y": 35,
+						"w": 22,
+						"h": 34
+					}
+				},
+				{
+					"filename": "big_zombie_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 1,
+						"w": 19,
+						"h": 33
+					},
+					"frame": {
+						"x": 32,
+						"y": 35,
+						"w": 19,
+						"h": 33
+					}
+				},
+				{
+					"filename": "doors_leaf_open.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 64,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "doors_leaf_closed.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 64,
+						"y": 32,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "big_demon_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 23,
+						"h": 31
+					},
+					"frame": {
+						"x": 0,
+						"y": 72,
+						"w": 23,
+						"h": 31
+					}
+				},
+				{
+					"filename": "big_demon_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 22,
+						"h": 31
+					},
+					"frame": {
+						"x": 23,
+						"y": 69,
+						"w": 22,
+						"h": 31
+					}
+				},
+				{
+					"filename": "weapon_red_magic_staff.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 30
+					},
+					"frame": {
+						"x": 51,
+						"y": 35,
+						"w": 8,
+						"h": 30
+					}
+				},
+				{
+					"filename": "weapon_green_magic_staff.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 30
+					},
+					"frame": {
+						"x": 45,
+						"y": 68,
+						"w": 8,
+						"h": 30
+					}
+				},
+				{
+					"filename": "weapon_duel_sword.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 9,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 9,
+						"h": 30
+					},
+					"frame": {
+						"x": 53,
+						"y": 65,
+						"w": 9,
+						"h": 30
+					}
+				},
+				{
+					"filename": "weapon_spear.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 6,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 6,
+						"h": 30
+					},
+					"frame": {
+						"x": 62,
+						"y": 64,
+						"w": 6,
+						"h": 30
+					}
+				},
+				{
+					"filename": "weapon_lavish_sword.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 30
+					},
+					"frame": {
+						"x": 68,
+						"y": 64,
+						"w": 10,
+						"h": 30
+					}
+				},
+				{
+					"filename": "weapon_anime_sword.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 12,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 12,
+						"h": 30
+					},
+					"frame": {
+						"x": 78,
+						"y": 64,
+						"w": 12,
+						"h": 30
+					}
+				},
+				{
+					"filename": "doors_frame_righ.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 16,
+						"h": 30
+					},
+					"frame": {
+						"x": 96,
+						"y": 0,
+						"w": 16,
+						"h": 30
+					}
+				},
+				{
+					"filename": "big_demon_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 23,
+						"h": 30
+					},
+					"frame": {
+						"x": 0,
+						"y": 103,
+						"w": 23,
+						"h": 30
+					}
+				},
+				{
+					"filename": "big_zombie_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 1,
+						"w": 20,
+						"h": 29
+					},
+					"frame": {
+						"x": 90,
+						"y": 64,
+						"w": 20,
+						"h": 29
+					}
+				},
+				{
+					"filename": "weapon_katana.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 6,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 6,
+						"h": 29
+					},
+					"frame": {
+						"x": 23,
+						"y": 100,
+						"w": 6,
+						"h": 29
+					}
+				},
+				{
+					"filename": "big_zombie_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 5,
+						"w": 20,
+						"h": 29
+					},
+					"frame": {
+						"x": 90,
+						"y": 93,
+						"w": 20,
+						"h": 29
+					}
+				},
+				{
+					"filename": "weapon_knight_sword.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 29
+					},
+					"frame": {
+						"x": 29,
+						"y": 100,
+						"w": 10,
+						"h": 29
+					}
+				},
+				{
+					"filename": "doors_frame_left.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 16,
+						"h": 29
+					},
+					"frame": {
+						"x": 96,
+						"y": 30,
+						"w": 16,
+						"h": 29
+					}
+				},
+				{
+					"filename": "big_demon_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 22,
+						"h": 29
+					},
+					"frame": {
+						"x": 39,
+						"y": 100,
+						"w": 22,
+						"h": 29
+					}
+				},
+				{
+					"filename": "big_demon_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 8,
+						"w": 23,
+						"h": 28
+					},
+					"frame": {
+						"x": 62,
+						"y": 94,
+						"w": 23,
+						"h": 28
+					}
+				},
+				{
+					"filename": "big_demon_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 22,
+						"h": 28
+					},
+					"frame": {
+						"x": 112,
+						"y": 0,
+						"w": 22,
+						"h": 28
+					}
+				},
+				{
+					"filename": "ogre_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 20,
+						"h": 28
+					},
+					"frame": {
+						"x": 112,
+						"y": 28,
+						"w": 20,
+						"h": 28
+					}
+				},
+				{
+					"filename": "big_demon_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 8,
+						"w": 26,
+						"h": 28
+					},
+					"frame": {
+						"x": 0,
+						"y": 133,
+						"w": 26,
+						"h": 28
+					}
+				},
+				{
+					"filename": "big_zombie_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 18,
+						"h": 27
+					},
+					"frame": {
+						"x": 112,
+						"y": 56,
+						"w": 18,
+						"h": 27
+					}
+				},
+				{
+					"filename": "ogre_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 5,
+						"w": 20,
+						"h": 27
+					},
+					"frame": {
+						"x": 110,
+						"y": 83,
+						"w": 20,
+						"h": 27
+					}
+				},
+				{
+					"filename": "big_zombie_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 18,
+						"h": 27
+					},
+					"frame": {
+						"x": 26,
+						"y": 129,
+						"w": 18,
+						"h": 27
+					}
+				},
+				{
+					"filename": "ogre_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 20,
+						"h": 26
+					},
+					"frame": {
+						"x": 110,
+						"y": 110,
+						"w": 20,
+						"h": 26
+					}
+				},
+				{
+					"filename": "ogre_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 20,
+						"h": 26
+					},
+					"frame": {
+						"x": 44,
+						"y": 129,
+						"w": 20,
+						"h": 26
+					}
+				},
+				{
+					"filename": "ogre_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 22,
+						"h": 26
+					},
+					"frame": {
+						"x": 64,
+						"y": 122,
+						"w": 22,
+						"h": 26
+					}
+				},
+				{
+					"filename": "doors_frame_top.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 3
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 26,
+						"h": 3
+					},
+					"frame": {
+						"x": 26,
+						"y": 156,
+						"w": 26,
+						"h": 3
+					}
+				},
+				{
+					"filename": "big_zombie_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 8,
+						"w": 18,
+						"h": 26
+					},
+					"frame": {
+						"x": 86,
+						"y": 122,
+						"w": 18,
+						"h": 26
+					}
+				},
+				{
+					"filename": "ogre_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 20,
+						"h": 26
+					},
+					"frame": {
+						"x": 134,
+						"y": 0,
+						"w": 20,
+						"h": 26
+					}
+				},
+				{
+					"filename": "weapon_bow.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 7,
+						"h": 25
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 7,
+						"h": 25
+					},
+					"frame": {
+						"x": 104,
+						"y": 136,
+						"w": 7,
+						"h": 25
+					}
+				},
+				{
+					"filename": "ogre_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 22,
+						"h": 25
+					},
+					"frame": {
+						"x": 132,
+						"y": 28,
+						"w": 22,
+						"h": 25
+					}
+				},
+				{
+					"filename": "big_zombie_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 9,
+						"w": 20,
+						"h": 25
+					},
+					"frame": {
+						"x": 111,
+						"y": 136,
+						"w": 20,
+						"h": 25
+					}
+				},
+				{
+					"filename": "ogre_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 7,
+						"w": 20,
+						"h": 25
+					},
+					"frame": {
+						"x": 132,
+						"y": 53,
+						"w": 20,
+						"h": 25
+					}
+				},
+				{
+					"filename": "weapon_saw_sword.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 25
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 25
+					},
+					"frame": {
+						"x": 131,
+						"y": 78,
+						"w": 10,
+						"h": 25
+					}
+				},
+				{
+					"filename": "big_zombie_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 10,
+						"w": 18,
+						"h": 24
+					},
+					"frame": {
+						"x": 131,
+						"y": 103,
+						"w": 18,
+						"h": 24
+					}
+				},
+				{
+					"filename": "weapon_mace.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 24
+					},
+					"frame": {
+						"x": 141,
+						"y": 78,
+						"w": 10,
+						"h": 24
+					}
+				},
+				{
+					"filename": "weapon_hammer.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 24
+					},
+					"frame": {
+						"x": 131,
+						"y": 127,
+						"w": 10,
+						"h": 24
+					}
+				},
+				{
+					"filename": "knight_m_hit_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 14,
+						"h": 23
+					},
+					"frame": {
+						"x": 154,
+						"y": 0,
+						"w": 14,
+						"h": 23
+					}
+				},
+				{
+					"filename": "knight_f_hit_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 14,
+						"h": 23
+					},
+					"frame": {
+						"x": 154,
+						"y": 23,
+						"w": 14,
+						"h": 23
+					}
+				},
+				{
+					"filename": "knight_f_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 15,
+						"h": 22
+					},
+					"frame": {
+						"x": 152,
+						"y": 53,
+						"w": 15,
+						"h": 22
+					}
+				},
+				{
+					"filename": "wizzard_f_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 15,
+						"h": 22
+					},
+					"frame": {
+						"x": 152,
+						"y": 75,
+						"w": 15,
+						"h": 22
+					}
+				},
+				{
+					"filename": "weapon_golden_sword.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 22
+					},
+					"frame": {
+						"x": 151,
+						"y": 97,
+						"w": 10,
+						"h": 22
+					}
+				},
+				{
+					"filename": "knight_m_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 15,
+						"h": 22
+					},
+					"frame": {
+						"x": 149,
+						"y": 119,
+						"w": 15,
+						"h": 22
+					}
+				},
+				{
+					"filename": "weapon_machete.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 5,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 5,
+						"h": 22
+					},
+					"frame": {
+						"x": 59,
+						"y": 35,
+						"w": 5,
+						"h": 22
+					}
+				},
+				{
+					"filename": "weapon_baton_with_spikes.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 22
+					},
+					"frame": {
+						"x": 0,
+						"y": 161,
+						"w": 10,
+						"h": 22
+					}
+				},
+				{
+					"filename": "weapon_red_gem_sword.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 21
+					},
+					"frame": {
+						"x": 10,
+						"y": 161,
+						"w": 10,
+						"h": 21
+					}
+				},
+				{
+					"filename": "weapon_axe.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 9,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 9,
+						"h": 21
+					},
+					"frame": {
+						"x": 20,
+						"y": 161,
+						"w": 9,
+						"h": 21
+					}
+				},
+				{
+					"filename": "weapon_arrow.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 7,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 7,
+						"h": 21
+					},
+					"frame": {
+						"x": 161,
+						"y": 97,
+						"w": 7,
+						"h": 21
+					}
+				},
+				{
+					"filename": "wizzard_m_hit_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 14,
+						"h": 21
+					},
+					"frame": {
+						"x": 29,
+						"y": 161,
+						"w": 14,
+						"h": 21
+					}
+				},
+				{
+					"filename": "weapon_regular_sword.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 21
+					},
+					"frame": {
+						"x": 43,
+						"y": 161,
+						"w": 10,
+						"h": 21
+					}
+				},
+				{
+					"filename": "weapon_rusty_sword.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 21
+					},
+					"frame": {
+						"x": 53,
+						"y": 161,
+						"w": 10,
+						"h": 21
+					}
+				},
+				{
+					"filename": "knight_m_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 15,
+						"h": 21
+					},
+					"frame": {
+						"x": 63,
+						"y": 161,
+						"w": 15,
+						"h": 21
+					}
+				},
+				{
+					"filename": "wizzard_f_hit_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 15,
+						"h": 21
+					},
+					"frame": {
+						"x": 78,
+						"y": 161,
+						"w": 15,
+						"h": 21
+					}
+				},
+				{
+					"filename": "wizzard_f_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 15,
+						"h": 21
+					},
+					"frame": {
+						"x": 93,
+						"y": 161,
+						"w": 15,
+						"h": 21
+					}
+				},
+				{
+					"filename": "wizzard_f_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 15,
+						"h": 21
+					},
+					"frame": {
+						"x": 108,
+						"y": 161,
+						"w": 15,
+						"h": 21
+					}
+				},
+				{
+					"filename": "chort_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 11,
+						"h": 21
+					},
+					"frame": {
+						"x": 123,
+						"y": 161,
+						"w": 11,
+						"h": 21
+					}
+				},
+				{
+					"filename": "knight_f_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 15,
+						"h": 21
+					},
+					"frame": {
+						"x": 134,
+						"y": 151,
+						"w": 15,
+						"h": 21
+					}
+				},
+				{
+					"filename": "chort_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 14,
+						"h": 21
+					},
+					"frame": {
+						"x": 149,
+						"y": 141,
+						"w": 14,
+						"h": 21
+					}
+				},
+				{
+					"filename": "wizzard_m_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 7,
+						"w": 15,
+						"h": 21
+					},
+					"frame": {
+						"x": 149,
+						"y": 162,
+						"w": 15,
+						"h": 21
+					}
+				},
+				{
+					"filename": "wizzard_f_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 15,
+						"h": 20
+					},
+					"frame": {
+						"x": 168,
+						"y": 0,
+						"w": 15,
+						"h": 20
+					}
+				},
+				{
+					"filename": "crate.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 14,
+						"h": 20
+					},
+					"frame": {
+						"x": 163,
+						"y": 141,
+						"w": 14,
+						"h": 20
+					}
+				},
+				{
+					"filename": "knight_f_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 15,
+						"h": 20
+					},
+					"frame": {
+						"x": 168,
+						"y": 20,
+						"w": 15,
+						"h": 20
+					}
+				},
+				{
+					"filename": "knight_f_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 15,
+						"h": 20
+					},
+					"frame": {
+						"x": 168,
+						"y": 40,
+						"w": 15,
+						"h": 20
+					}
+				},
+				{
+					"filename": "knight_f_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 15,
+						"h": 20
+					},
+					"frame": {
+						"x": 168,
+						"y": 60,
+						"w": 15,
+						"h": 20
+					}
+				},
+				{
+					"filename": "chort_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 11,
+						"h": 20
+					},
+					"frame": {
+						"x": 164,
+						"y": 161,
+						"w": 11,
+						"h": 20
+					}
+				},
+				{
+					"filename": "wizzard_m_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 14,
+						"h": 20
+					},
+					"frame": {
+						"x": 168,
+						"y": 80,
+						"w": 14,
+						"h": 20
+					}
+				},
+				{
+					"filename": "knight_f_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 15,
+						"h": 20
+					},
+					"frame": {
+						"x": 168,
+						"y": 100,
+						"w": 15,
+						"h": 20
+					}
+				},
+				{
+					"filename": "knight_m_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 15,
+						"h": 20
+					},
+					"frame": {
+						"x": 164,
+						"y": 120,
+						"w": 15,
+						"h": 20
+					}
+				},
+				{
+					"filename": "knight_m_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 15,
+						"h": 20
+					},
+					"frame": {
+						"x": 182,
+						"y": 80,
+						"w": 15,
+						"h": 20
+					}
+				},
+				{
+					"filename": "knight_m_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 15,
+						"h": 20
+					},
+					"frame": {
+						"x": 183,
+						"y": 0,
+						"w": 15,
+						"h": 20
+					}
+				},
+				{
+					"filename": "knight_m_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 15,
+						"h": 20
+					},
+					"frame": {
+						"x": 183,
+						"y": 100,
+						"w": 15,
+						"h": 20
+					}
+				},
+				{
+					"filename": "knight_m_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 15,
+						"h": 20
+					},
+					"frame": {
+						"x": 183,
+						"y": 20,
+						"w": 15,
+						"h": 20
+					}
+				},
+				{
+					"filename": "wizzard_m_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 14,
+						"h": 20
+					},
+					"frame": {
+						"x": 183,
+						"y": 40,
+						"w": 14,
+						"h": 20
+					}
+				},
+				{
+					"filename": "knight_f_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 15,
+						"h": 20
+					},
+					"frame": {
+						"x": 183,
+						"y": 60,
+						"w": 15,
+						"h": 20
+					}
+				},
+				{
+					"filename": "lizard_f_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 9,
+						"w": 15,
+						"h": 19
+					},
+					"frame": {
+						"x": 175,
+						"y": 161,
+						"w": 15,
+						"h": 19
+					}
+				},
+				{
+					"filename": "weapon_cleaver.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 19
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 19
+					},
+					"frame": {
+						"x": 141,
+						"y": 127,
+						"w": 8,
+						"h": 19
+					}
+				},
+				{
+					"filename": "elf_m_hit_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 15,
+						"h": 19
+					},
+					"frame": {
+						"x": 177,
+						"y": 140,
+						"w": 15,
+						"h": 19
+					}
+				},
+				{
+					"filename": "elf_m_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 9,
+						"w": 15,
+						"h": 19
+					},
+					"frame": {
+						"x": 179,
+						"y": 120,
+						"w": 15,
+						"h": 19
+					}
+				},
+				{
+					"filename": "elf_m_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 9,
+						"w": 15,
+						"h": 19
+					},
+					"frame": {
+						"x": 134,
+						"y": 172,
+						"w": 15,
+						"h": 19
+					}
+				},
+				{
+					"filename": "knight_f_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 15,
+						"h": 19
+					},
+					"frame": {
+						"x": 0,
+						"y": 183,
+						"w": 15,
+						"h": 19
+					}
+				},
+				{
+					"filename": "elf_m_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 7,
+						"w": 15,
+						"h": 19
+					},
+					"frame": {
+						"x": 149,
+						"y": 183,
+						"w": 15,
+						"h": 19
+					}
+				},
+				{
+					"filename": "wizzard_m_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 16,
+						"h": 19
+					},
+					"frame": {
+						"x": 15,
+						"y": 182,
+						"w": 16,
+						"h": 19
+					}
+				},
+				{
+					"filename": "wizzard_m_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 9,
+						"w": 14,
+						"h": 19
+					},
+					"frame": {
+						"x": 31,
+						"y": 182,
+						"w": 14,
+						"h": 19
+					}
+				},
+				{
+					"filename": "chort_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 12,
+						"h": 19
+					},
+					"frame": {
+						"x": 45,
+						"y": 182,
+						"w": 12,
+						"h": 19
+					}
+				},
+				{
+					"filename": "lizard_m_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 8,
+						"w": 15,
+						"h": 19
+					},
+					"frame": {
+						"x": 57,
+						"y": 182,
+						"w": 15,
+						"h": 19
+					}
+				},
+				{
+					"filename": "lizard_m_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 7,
+						"w": 15,
+						"h": 19
+					},
+					"frame": {
+						"x": 72,
+						"y": 182,
+						"w": 15,
+						"h": 19
+					}
+				},
+				{
+					"filename": "lizard_m_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 9,
+						"w": 15,
+						"h": 19
+					},
+					"frame": {
+						"x": 87,
+						"y": 182,
+						"w": 15,
+						"h": 19
+					}
+				},
+				{
+					"filename": "lizard_m_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 9,
+						"w": 15,
+						"h": 19
+					},
+					"frame": {
+						"x": 102,
+						"y": 182,
+						"w": 15,
+						"h": 19
+					}
+				},
+				{
+					"filename": "knight_m_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 15,
+						"h": 19
+					},
+					"frame": {
+						"x": 117,
+						"y": 182,
+						"w": 15,
+						"h": 19
+					}
+				},
+				{
+					"filename": "lizard_m_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 9,
+						"w": 15,
+						"h": 19
+					},
+					"frame": {
+						"x": 164,
+						"y": 181,
+						"w": 15,
+						"h": 19
+					}
+				},
+				{
+					"filename": "lizard_m_hit_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 6,
+						"w": 15,
+						"h": 19
+					},
+					"frame": {
+						"x": 179,
+						"y": 180,
+						"w": 15,
+						"h": 19
+					}
+				},
+				{
+					"filename": "lizard_f_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 8,
+						"w": 15,
+						"h": 19
+					},
+					"frame": {
+						"x": 198,
+						"y": 0,
+						"w": 15,
+						"h": 19
+					}
+				},
+				{
+					"filename": "lizard_f_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 7,
+						"w": 15,
+						"h": 19
+					},
+					"frame": {
+						"x": 198,
+						"y": 19,
+						"w": 15,
+						"h": 19
+					}
+				},
+				{
+					"filename": "lizard_f_hit_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 6,
+						"w": 15,
+						"h": 19
+					},
+					"frame": {
+						"x": 198,
+						"y": 38,
+						"w": 15,
+						"h": 19
+					}
+				},
+				{
+					"filename": "lizard_f_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 9,
+						"w": 15,
+						"h": 19
+					},
+					"frame": {
+						"x": 198,
+						"y": 57,
+						"w": 15,
+						"h": 19
+					}
+				},
+				{
+					"filename": "lizard_f_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 9,
+						"w": 15,
+						"h": 19
+					},
+					"frame": {
+						"x": 198,
+						"y": 76,
+						"w": 15,
+						"h": 19
+					}
+				},
+				{
+					"filename": "lizard_m_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 10,
+						"w": 15,
+						"h": 18
+					},
+					"frame": {
+						"x": 198,
+						"y": 95,
+						"w": 15,
+						"h": 18
+					}
+				},
+				{
+					"filename": "wizzard_m_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 10,
+						"w": 14,
+						"h": 18
+					},
+					"frame": {
+						"x": 198,
+						"y": 113,
+						"w": 14,
+						"h": 18
+					}
+				},
+				{
+					"filename": "wizzard_m_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 10,
+						"w": 15,
+						"h": 18
+					},
+					"frame": {
+						"x": 190,
+						"y": 159,
+						"w": 15,
+						"h": 18
+					}
+				},
+				{
+					"filename": "wizzard_f_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 15,
+						"h": 18
+					},
+					"frame": {
+						"x": 192,
+						"y": 139,
+						"w": 15,
+						"h": 18
+					}
+				},
+				{
+					"filename": "wizzard_f_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 15,
+						"h": 18
+					},
+					"frame": {
+						"x": 194,
+						"y": 177,
+						"w": 15,
+						"h": 18
+					}
+				},
+				{
+					"filename": "wizzard_f_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 16,
+						"h": 18
+					},
+					"frame": {
+						"x": 0,
+						"y": 202,
+						"w": 16,
+						"h": 18
+					}
+				},
+				{
+					"filename": "elf_m_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 10,
+						"w": 15,
+						"h": 18
+					},
+					"frame": {
+						"x": 16,
+						"y": 202,
+						"w": 15,
+						"h": 18
+					}
+				},
+				{
+					"filename": "elf_m_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 10,
+						"w": 15,
+						"h": 18
+					},
+					"frame": {
+						"x": 31,
+						"y": 202,
+						"w": 15,
+						"h": 18
+					}
+				},
+				{
+					"filename": "elf_f_hit_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 15,
+						"h": 18
+					},
+					"frame": {
+						"x": 46,
+						"y": 202,
+						"w": 15,
+						"h": 18
+					}
+				},
+				{
+					"filename": "chort_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 11,
+						"h": 18
+					},
+					"frame": {
+						"x": 61,
+						"y": 202,
+						"w": 11,
+						"h": 18
+					}
+				},
+				{
+					"filename": "lizard_f_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 10,
+						"w": 15,
+						"h": 18
+					},
+					"frame": {
+						"x": 72,
+						"y": 202,
+						"w": 15,
+						"h": 18
+					}
+				},
+				{
+					"filename": "elf_m_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 10,
+						"w": 15,
+						"h": 18
+					},
+					"frame": {
+						"x": 87,
+						"y": 202,
+						"w": 15,
+						"h": 18
+					}
+				},
+				{
+					"filename": "wizzard_m_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 10,
+						"w": 15,
+						"h": 18
+					},
+					"frame": {
+						"x": 102,
+						"y": 202,
+						"w": 15,
+						"h": 18
+					}
+				},
+				{
+					"filename": "wizzard_f_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 15,
+						"h": 18
+					},
+					"frame": {
+						"x": 117,
+						"y": 202,
+						"w": 15,
+						"h": 18
+					}
+				},
+				{
+					"filename": "elf_m_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 9,
+						"w": 15,
+						"h": 18
+					},
+					"frame": {
+						"x": 132,
+						"y": 202,
+						"w": 15,
+						"h": 18
+					}
+				},
+				{
+					"filename": "wogol_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 10,
+						"h": 17
+					},
+					"frame": {
+						"x": 147,
+						"y": 202,
+						"w": 10,
+						"h": 17
+					}
+				},
+				{
+					"filename": "necromancer_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 12,
+						"h": 17
+					},
+					"frame": {
+						"x": 157,
+						"y": 202,
+						"w": 12,
+						"h": 17
+					}
+				},
+				{
+					"filename": "elf_m_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 11,
+						"w": 15,
+						"h": 17
+					},
+					"frame": {
+						"x": 169,
+						"y": 200,
+						"w": 15,
+						"h": 17
+					}
+				},
+				{
+					"filename": "elf_f_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 15,
+						"h": 17
+					},
+					"frame": {
+						"x": 194,
+						"y": 195,
+						"w": 15,
+						"h": 17
+					}
+				},
+				{
+					"filename": "masked_orc_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 12,
+						"h": 17
+					},
+					"frame": {
+						"x": 213,
+						"y": 0,
+						"w": 12,
+						"h": 17
+					}
+				},
+				{
+					"filename": "lizard_m_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 11,
+						"w": 15,
+						"h": 17
+					},
+					"frame": {
+						"x": 209,
+						"y": 131,
+						"w": 15,
+						"h": 17
+					}
+				},
+				{
+					"filename": "lizard_f_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 11,
+						"w": 15,
+						"h": 17
+					},
+					"frame": {
+						"x": 209,
+						"y": 148,
+						"w": 15,
+						"h": 17
+					}
+				},
+				{
+					"filename": "orc_warrior_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 12,
+						"h": 17
+					},
+					"frame": {
+						"x": 213,
+						"y": 17,
+						"w": 12,
+						"h": 17
+					}
+				},
+				{
+					"filename": "wall_corner_top_left.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 16,
+						"h": 4
+					},
+					"frame": {
+						"x": 96,
+						"y": 59,
+						"w": 16,
+						"h": 4
+					}
+				},
+				{
+					"filename": "lizard_f_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 209,
+						"y": 165,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "zombie_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 8,
+						"h": 16
+					},
+					"frame": {
+						"x": 184,
+						"y": 199,
+						"w": 8,
+						"h": 16
+					}
+				},
+				{
+					"filename": "chest_empty_open_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 16,
+						"h": 14
+					},
+					"frame": {
+						"x": 209,
+						"y": 181,
+						"w": 16,
+						"h": 14
+					}
+				},
+				{
+					"filename": "wogol_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 12,
+						"h": 16
+					},
+					"frame": {
+						"x": 213,
+						"y": 34,
+						"w": 12,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wogol_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 10,
+						"h": 16
+					},
+					"frame": {
+						"x": 212,
+						"y": 113,
+						"w": 10,
+						"h": 16
+					}
+				},
+				{
+					"filename": "chest_empty_open_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 209,
+						"y": 195,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "chest_empty_open_anim_f2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 209,
+						"y": 210,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "lizard_m_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 0,
+						"y": 220,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "chest_full_open_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 192,
+						"y": 212,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "chest_full_open_anim_f2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 16,
+						"y": 220,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_zombie_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 8,
+						"h": 16
+					},
+					"frame": {
+						"x": 184,
+						"y": 215,
+						"w": 8,
+						"h": 16
+					}
+				},
+				{
+					"filename": "hole.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 32,
+						"y": 220,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "chest_mimic_open_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 48,
+						"y": 220,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "masked_orc_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 12,
+						"h": 16
+					},
+					"frame": {
+						"x": 213,
+						"y": 50,
+						"w": 12,
+						"h": 16
+					}
+				},
+				{
+					"filename": "chest_mimic_open_anim_f2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 64,
+						"y": 220,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "chort_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 8,
+						"w": 11,
+						"h": 16
+					},
+					"frame": {
+						"x": 80,
+						"y": 220,
+						"w": 11,
+						"h": 16
+					}
+				},
+				{
+					"filename": "column_mid.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 16
+					},
+					"frame": {
+						"x": 169,
+						"y": 217,
+						"w": 15,
+						"h": 16
+					}
+				},
+				{
+					"filename": "masked_orc_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 12,
+						"h": 16
+					},
+					"frame": {
+						"x": 213,
+						"y": 66,
+						"w": 12,
+						"h": 16
+					}
+				},
+				{
+					"filename": "masked_orc_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 91,
+						"y": 220,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "coulmn_base.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 7
+					},
+					"frame": {
+						"x": 132,
+						"y": 191,
+						"w": 16,
+						"h": 7
+					}
+				},
+				{
+					"filename": "masked_orc_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 12,
+						"h": 16
+					},
+					"frame": {
+						"x": 213,
+						"y": 82,
+						"w": 12,
+						"h": 16
+					}
+				},
+				{
+					"filename": "muddy_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 16,
+						"h": 13
+					},
+					"frame": {
+						"x": 64,
+						"y": 148,
+						"w": 16,
+						"h": 13
+					}
+				},
+				{
+					"filename": "muddy_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 16,
+						"h": 14
+					},
+					"frame": {
+						"x": 104,
+						"y": 220,
+						"w": 16,
+						"h": 14
+					}
+				},
+				{
+					"filename": "muddy_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 14,
+						"h": 16
+					},
+					"frame": {
+						"x": 120,
+						"y": 220,
+						"w": 14,
+						"h": 16
+					}
+				},
+				{
+					"filename": "edge.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 6
+					},
+					"frame": {
+						"x": 208,
+						"y": 226,
+						"w": 16,
+						"h": 6
+					}
+				},
+				{
+					"filename": "elf_f_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 15,
+						"h": 16
+					},
+					"frame": {
+						"x": 134,
+						"y": 220,
+						"w": 15,
+						"h": 16
+					}
+				},
+				{
+					"filename": "elf_f_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 13,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 149,
+						"y": 219,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "necromancer_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 4,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 225,
+						"y": 0,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "elf_f_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 16,
+						"h": 14
+					},
+					"frame": {
+						"x": 222,
+						"y": 98,
+						"w": 16,
+						"h": 14
+					}
+				},
+				{
+					"filename": "elf_f_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 222,
+						"y": 112,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "elf_f_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 16,
+						"h": 13
+					},
+					"frame": {
+						"x": 80,
+						"y": 148,
+						"w": 16,
+						"h": 13
+					}
+				},
+				{
+					"filename": "floor_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 48,
+						"y": 235,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "floor_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 104,
+						"y": 234,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "floor_spikes_anim_f3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 192,
+						"y": 227,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "floor_spikes_anim_f2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 0,
+						"y": 236,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "floor_spikes_anim_f1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 64,
+						"y": 236,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "floor_spikes_anim_f0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 120,
+						"y": 236,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "floor_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 16,
+						"y": 236,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "floor_4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 80,
+						"y": 236,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "floor_5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 136,
+						"y": 236,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "floor_6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 32,
+						"y": 236,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "floor_7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 152,
+						"y": 234,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "floor_8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 168,
+						"y": 233,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "orc_shaman_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 12,
+						"h": 16
+					},
+					"frame": {
+						"x": 225,
+						"y": 16,
+						"w": 12,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_top_right.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 16,
+						"h": 4
+					},
+					"frame": {
+						"x": 132,
+						"y": 198,
+						"w": 16,
+						"h": 4
+					}
+				},
+				{
+					"filename": "orc_warrior_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 11,
+						"h": 16
+					},
+					"frame": {
+						"x": 225,
+						"y": 128,
+						"w": 11,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_top_mid.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 16,
+						"h": 4
+					},
+					"frame": {
+						"x": 184,
+						"y": 243,
+						"w": 16,
+						"h": 4
+					}
+				},
+				{
+					"filename": "wall_top_left.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 16,
+						"h": 4
+					},
+					"frame": {
+						"x": 184,
+						"y": 247,
+						"w": 16,
+						"h": 4
+					}
+				},
+				{
+					"filename": "wall_side_mid_right.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 5,
+						"h": 16
+					},
+					"frame": {
+						"x": 85,
+						"y": 94,
+						"w": 5,
+						"h": 16
+					}
+				},
+				{
+					"filename": "orc_warrior_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 11,
+						"h": 16
+					},
+					"frame": {
+						"x": 225,
+						"y": 32,
+						"w": 11,
+						"h": 16
+					}
+				},
+				{
+					"filename": "orc_warrior_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 225,
+						"y": 144,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "floor_ladder.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 208,
+						"y": 232,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "orc_warrior_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 11,
+						"h": 16
+					},
+					"frame": {
+						"x": 225,
+						"y": 48,
+						"w": 11,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_side_mid_left.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 5,
+						"h": 16
+					},
+					"frame": {
+						"x": 96,
+						"y": 236,
+						"w": 5,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_side_front_right.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 5,
+						"h": 16
+					},
+					"frame": {
+						"x": 225,
+						"y": 160,
+						"w": 5,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_side_front_left.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 5,
+						"h": 16
+					},
+					"frame": {
+						"x": 230,
+						"y": 160,
+						"w": 5,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_right.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 236,
+						"y": 128,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_mid.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 238,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_left.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 238,
+						"y": 144,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_inner_corner_t_top_rigth.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 16,
+						"h": 4
+					},
+					"frame": {
+						"x": 200,
+						"y": 248,
+						"w": 16,
+						"h": 4
+					}
+				},
+				{
+					"filename": "wall_inner_corner_t_top_left.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 16,
+						"h": 4
+					},
+					"frame": {
+						"x": 238,
+						"y": 16,
+						"w": 16,
+						"h": 4
+					}
+				},
+				{
+					"filename": "wall_inner_corner_mid_rigth.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 238,
+						"y": 20,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "swampy_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 16,
+						"h": 13
+					},
+					"frame": {
+						"x": 238,
+						"y": 36,
+						"w": 16,
+						"h": 13
+					}
+				},
+				{
+					"filename": "swampy_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 16,
+						"h": 14
+					},
+					"frame": {
+						"x": 238,
+						"y": 49,
+						"w": 16,
+						"h": 14
+					}
+				},
+				{
+					"filename": "swampy_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 14,
+						"h": 16
+					},
+					"frame": {
+						"x": 238,
+						"y": 63,
+						"w": 14,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_inner_corner_mid_left.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 238,
+						"y": 79,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_inner_corner_l_top_rigth.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 238,
+						"y": 95,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_inner_corner_l_top_left.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 238,
+						"y": 111,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_hole_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 235,
+						"y": 160,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_hole_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 224,
+						"y": 226,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_goo_base.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 225,
+						"y": 176,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_goo.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 225,
+						"y": 192,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_fountain_top.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 16,
+						"h": 7
+					},
+					"frame": {
+						"x": 224,
+						"y": 242,
+						"w": 16,
+						"h": 7
+					}
+				},
+				{
+					"filename": "wall_fountain_mid_red_anim_f2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 225,
+						"y": 208,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_fountain_mid_red_anim_f1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 48,
+						"y": 251,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_fountain_mid_red_anim_f0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 168,
+						"y": 249,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_banner_blue.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 0,
+						"y": 252,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_banner_green.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 152,
+						"y": 250,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_banner_red.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 184,
+						"y": 251,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_banner_yellow.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 16,
+						"y": 252,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_column_mid.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 64,
+						"y": 252,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_column_top.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 16,
+						"h": 12
+					},
+					"frame": {
+						"x": 32,
+						"y": 252,
+						"w": 16,
+						"h": 12
+					}
+				},
+				{
+					"filename": "wall_corner_bottom_left.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 200,
+						"y": 252,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_corner_bottom_right.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 80,
+						"y": 252,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_corner_front_left.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 96,
+						"y": 252,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_corner_front_right.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 112,
+						"y": 252,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_corner_left.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 128,
+						"y": 252,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_corner_right.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 216,
+						"y": 249,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_fountain_mid_blue_anim_f2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 232,
+						"y": 249,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_corner_top_right.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 16,
+						"h": 4
+					},
+					"frame": {
+						"x": 32,
+						"y": 264,
+						"w": 16,
+						"h": 4
+					}
+				},
+				{
+					"filename": "wall_coulmn_base.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 252,
+						"y": 63,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_fountain_basin_blue_anim_f0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 254,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_fountain_basin_blue_anim_f1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 254,
+						"y": 79,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_fountain_basin_blue_anim_f2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 254,
+						"y": 16,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_fountain_basin_red_anim_f0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 254,
+						"y": 95,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_fountain_basin_red_anim_f1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 254,
+						"y": 32,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_fountain_basin_red_anim_f2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 254,
+						"y": 111,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_fountain_mid_blue_anim_f0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 254,
+						"y": 127,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wall_fountain_mid_blue_anim_f1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 254,
+						"y": 143,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "zombie_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 10,
+						"h": 15
+					},
+					"frame": {
+						"x": 254,
+						"y": 48,
+						"w": 10,
+						"h": 15
+					}
+				},
+				{
+					"filename": "elf_f_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 15,
+						"h": 14
+					},
+					"frame": {
+						"x": 254,
+						"y": 159,
+						"w": 15,
+						"h": 14
+					}
+				},
+				{
+					"filename": "wogol_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 10,
+						"h": 15
+					},
+					"frame": {
+						"x": 225,
+						"y": 64,
+						"w": 10,
+						"h": 15
+					}
+				},
+				{
+					"filename": "ice_zombie_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 10,
+						"h": 15
+					},
+					"frame": {
+						"x": 225,
+						"y": 79,
+						"w": 10,
+						"h": 15
+					}
+				},
+				{
+					"filename": "skelet_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 10,
+						"h": 15
+					},
+					"frame": {
+						"x": 251,
+						"y": 173,
+						"w": 10,
+						"h": 15
+					}
+				},
+				{
+					"filename": "masked_orc_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 12,
+						"h": 15
+					},
+					"frame": {
+						"x": 240,
+						"y": 224,
+						"w": 12,
+						"h": 15
+					}
+				},
+				{
+					"filename": "orc_warrior_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 11,
+						"h": 15
+					},
+					"frame": {
+						"x": 252,
+						"y": 188,
+						"w": 11,
+						"h": 15
+					}
+				},
+				{
+					"filename": "chort_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 11,
+						"h": 15
+					},
+					"frame": {
+						"x": 241,
+						"y": 188,
+						"w": 11,
+						"h": 15
+					}
+				},
+				{
+					"filename": "wogol_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 10,
+						"h": 15
+					},
+					"frame": {
+						"x": 241,
+						"y": 203,
+						"w": 10,
+						"h": 15
+					}
+				},
+				{
+					"filename": "orc_warrior_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 11,
+						"h": 15
+					},
+					"frame": {
+						"x": 251,
+						"y": 203,
+						"w": 11,
+						"h": 15
+					}
+				},
+				{
+					"filename": "orc_shaman_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 11,
+						"h": 15
+					},
+					"frame": {
+						"x": 252,
+						"y": 218,
+						"w": 11,
+						"h": 15
+					}
+				},
+				{
+					"filename": "orc_shaman_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 13,
+						"h": 15
+					},
+					"frame": {
+						"x": 252,
+						"y": 233,
+						"w": 13,
+						"h": 15
+					}
+				},
+				{
+					"filename": "orc_shaman_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 11,
+						"h": 15
+					},
+					"frame": {
+						"x": 248,
+						"y": 248,
+						"w": 11,
+						"h": 15
+					}
+				},
+				{
+					"filename": "orc_shaman_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 11,
+						"h": 15
+					},
+					"frame": {
+						"x": 259,
+						"y": 248,
+						"w": 11,
+						"h": 15
+					}
+				},
+				{
+					"filename": "masked_orc_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 12,
+						"h": 15
+					},
+					"frame": {
+						"x": 0,
+						"y": 268,
+						"w": 12,
+						"h": 15
+					}
+				},
+				{
+					"filename": "necromancer_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 13,
+						"h": 15
+					},
+					"frame": {
+						"x": 12,
+						"y": 268,
+						"w": 13,
+						"h": 15
+					}
+				},
+				{
+					"filename": "elf_f_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 13,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 25,
+						"y": 268,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "orc_warrior_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 11,
+						"h": 14
+					},
+					"frame": {
+						"x": 40,
+						"y": 268,
+						"w": 11,
+						"h": 14
+					}
+				},
+				{
+					"filename": "wogol_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 10,
+						"h": 14
+					},
+					"frame": {
+						"x": 51,
+						"y": 268,
+						"w": 10,
+						"h": 14
+					}
+				},
+				{
+					"filename": "skelet_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 10,
+						"h": 14
+					},
+					"frame": {
+						"x": 61,
+						"y": 268,
+						"w": 10,
+						"h": 14
+					}
+				},
+				{
+					"filename": "wogol_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 10,
+						"h": 14
+					},
+					"frame": {
+						"x": 71,
+						"y": 268,
+						"w": 10,
+						"h": 14
+					}
+				},
+				{
+					"filename": "chort_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 11,
+						"h": 14
+					},
+					"frame": {
+						"x": 81,
+						"y": 268,
+						"w": 11,
+						"h": 14
+					}
+				},
+				{
+					"filename": "orc_shaman_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 11,
+						"h": 14
+					},
+					"frame": {
+						"x": 92,
+						"y": 268,
+						"w": 11,
+						"h": 14
+					}
+				},
+				{
+					"filename": "orc_shaman_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 11,
+						"h": 14
+					},
+					"frame": {
+						"x": 103,
+						"y": 268,
+						"w": 11,
+						"h": 14
+					}
+				},
+				{
+					"filename": "skelet_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 10,
+						"h": 14
+					},
+					"frame": {
+						"x": 114,
+						"y": 268,
+						"w": 10,
+						"h": 14
+					}
+				},
+				{
+					"filename": "swampy_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 124,
+						"y": 268,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "column_top.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 4,
+						"w": 14,
+						"h": 12
+					},
+					"frame": {
+						"x": 168,
+						"y": 265,
+						"w": 14,
+						"h": 12
+					}
+				},
+				{
+					"filename": "muddy_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 138,
+						"y": 268,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "zombie_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 12,
+						"h": 14
+					},
+					"frame": {
+						"x": 182,
+						"y": 268,
+						"w": 12,
+						"h": 14
+					}
+				},
+				{
+					"filename": "necromancer_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 194,
+						"y": 268,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "skelet_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 10,
+						"h": 14
+					},
+					"frame": {
+						"x": 208,
+						"y": 268,
+						"w": 10,
+						"h": 14
+					}
+				},
+				{
+					"filename": "masked_orc_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 12,
+						"h": 14
+					},
+					"frame": {
+						"x": 152,
+						"y": 266,
+						"w": 12,
+						"h": 14
+					}
+				},
+				{
+					"filename": "skelet_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 10,
+						"h": 13
+					},
+					"frame": {
+						"x": 218,
+						"y": 265,
+						"w": 10,
+						"h": 13
+					}
+				},
+				{
+					"filename": "ui_heart_full.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 13,
+						"h": 12
+					},
+					"frame": {
+						"x": 228,
+						"y": 265,
+						"w": 13,
+						"h": 12
+					}
+				},
+				{
+					"filename": "ui_heart_empty.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 13,
+						"h": 12
+					},
+					"frame": {
+						"x": 241,
+						"y": 265,
+						"w": 13,
+						"h": 12
+					}
+				},
+				{
+					"filename": "imp_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 10,
+						"h": 13
+					},
+					"frame": {
+						"x": 254,
+						"y": 263,
+						"w": 10,
+						"h": 13
+					}
+				},
+				{
+					"filename": "imp_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 10,
+						"h": 13
+					},
+					"frame": {
+						"x": 270,
+						"y": 0,
+						"w": 10,
+						"h": 13
+					}
+				},
+				{
+					"filename": "skelet_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 10,
+						"h": 13
+					},
+					"frame": {
+						"x": 270,
+						"y": 13,
+						"w": 10,
+						"h": 13
+					}
+				},
+				{
+					"filename": "orc_shaman_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 7,
+						"w": 11,
+						"h": 13
+					},
+					"frame": {
+						"x": 269,
+						"y": 159,
+						"w": 11,
+						"h": 13
+					}
+				},
+				{
+					"filename": "ui_heart_half.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 13,
+						"h": 12
+					},
+					"frame": {
+						"x": 265,
+						"y": 173,
+						"w": 13,
+						"h": 12
+					}
+				},
+				{
+					"filename": "ice_zombie_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 12,
+						"h": 13
+					},
+					"frame": {
+						"x": 268,
+						"y": 48,
+						"w": 12,
+						"h": 13
+					}
+				},
+				{
+					"filename": "weapon_knife.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 6,
+						"h": 13
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 6,
+						"h": 13
+					},
+					"frame": {
+						"x": 104,
+						"y": 122,
+						"w": 6,
+						"h": 13
+					}
+				},
+				{
+					"filename": "imp_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 11,
+						"h": 12
+					},
+					"frame": {
+						"x": 268,
+						"y": 61,
+						"w": 11,
+						"h": 12
+					}
+				},
+				{
+					"filename": "imp_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 10,
+						"h": 12
+					},
+					"frame": {
+						"x": 241,
+						"y": 176,
+						"w": 10,
+						"h": 12
+					}
+				},
+				{
+					"filename": "wogol_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 8,
+						"w": 10,
+						"h": 12
+					},
+					"frame": {
+						"x": 270,
+						"y": 185,
+						"w": 10,
+						"h": 12
+					}
+				},
+				{
+					"filename": "imp_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 10,
+						"h": 12
+					},
+					"frame": {
+						"x": 270,
+						"y": 26,
+						"w": 10,
+						"h": 12
+					}
+				},
+				{
+					"filename": "skelet_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 10,
+						"h": 12
+					},
+					"frame": {
+						"x": 270,
+						"y": 73,
+						"w": 10,
+						"h": 12
+					}
+				},
+				{
+					"filename": "flask_blue.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 8,
+						"h": 11
+					},
+					"frame": {
+						"x": 96,
+						"y": 148,
+						"w": 8,
+						"h": 11
+					}
+				},
+				{
+					"filename": "flask_green.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 8,
+						"h": 11
+					},
+					"frame": {
+						"x": 184,
+						"y": 231,
+						"w": 8,
+						"h": 11
+					}
+				},
+				{
+					"filename": "goblin_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 11,
+						"h": 10
+					},
+					"frame": {
+						"x": 265,
+						"y": 197,
+						"w": 11,
+						"h": 10
+					}
+				},
+				{
+					"filename": "flask_red.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 8,
+						"h": 11
+					},
+					"frame": {
+						"x": 144,
+						"y": 252,
+						"w": 8,
+						"h": 11
+					}
+				},
+				{
+					"filename": "flask_yellow.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 8,
+						"h": 11
+					},
+					"frame": {
+						"x": 262,
+						"y": 207,
+						"w": 8,
+						"h": 11
+					}
+				},
+				{
+					"filename": "goblin_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 10,
+						"h": 11
+					},
+					"frame": {
+						"x": 270,
+						"y": 85,
+						"w": 10,
+						"h": 11
+					}
+				},
+				{
+					"filename": "flask_big_red.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 10,
+						"h": 11
+					},
+					"frame": {
+						"x": 270,
+						"y": 207,
+						"w": 10,
+						"h": 11
+					}
+				},
+				{
+					"filename": "flask_big_blue.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 10,
+						"h": 11
+					},
+					"frame": {
+						"x": 270,
+						"y": 96,
+						"w": 10,
+						"h": 11
+					}
+				},
+				{
+					"filename": "tiny_zombie_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 9,
+						"h": 11
+					},
+					"frame": {
+						"x": 213,
+						"y": 98,
+						"w": 9,
+						"h": 11
+					}
+				},
+				{
+					"filename": "imp_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 10,
+						"h": 11
+					},
+					"frame": {
+						"x": 270,
+						"y": 218,
+						"w": 10,
+						"h": 11
+					}
+				},
+				{
+					"filename": "tiny_zombie_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 11,
+						"h": 10
+					},
+					"frame": {
+						"x": 265,
+						"y": 229,
+						"w": 11,
+						"h": 10
+					}
+				},
+				{
+					"filename": "skelet_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 10,
+						"h": 11
+					},
+					"frame": {
+						"x": 270,
+						"y": 107,
+						"w": 10,
+						"h": 11
+					}
+				},
+				{
+					"filename": "flask_big_yellow.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 10,
+						"h": 11
+					},
+					"frame": {
+						"x": 270,
+						"y": 239,
+						"w": 10,
+						"h": 11
+					}
+				},
+				{
+					"filename": "flask_big_green.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 10,
+						"h": 11
+					},
+					"frame": {
+						"x": 270,
+						"y": 118,
+						"w": 10,
+						"h": 11
+					}
+				},
+				{
+					"filename": "goblin_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 10,
+						"h": 10
+					},
+					"frame": {
+						"x": 270,
+						"y": 38,
+						"w": 10,
+						"h": 10
+					}
+				},
+				{
+					"filename": "tiny_zombie_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 9,
+						"h": 10
+					},
+					"frame": {
+						"x": 270,
+						"y": 250,
+						"w": 9,
+						"h": 10
+					}
+				},
+				{
+					"filename": "tiny_zombie_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 9,
+						"h": 10
+					},
+					"frame": {
+						"x": 270,
+						"y": 129,
+						"w": 9,
+						"h": 10
+					}
+				},
+				{
+					"filename": "imp_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 10,
+						"h": 10
+					},
+					"frame": {
+						"x": 270,
+						"y": 260,
+						"w": 10,
+						"h": 10
+					}
+				},
+				{
+					"filename": "goblin_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 7,
+						"w": 10,
+						"h": 9
+					},
+					"frame": {
+						"x": 240,
+						"y": 239,
+						"w": 10,
+						"h": 9
+					}
+				},
+				{
+					"filename": "goblin_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 8,
+						"w": 10,
+						"h": 8
+					},
+					"frame": {
+						"x": 194,
+						"y": 131,
+						"w": 10,
+						"h": 8
+					}
+				},
+				{
+					"filename": "goblin_idle_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 10,
+						"h": 10
+					},
+					"frame": {
+						"x": 270,
+						"y": 139,
+						"w": 10,
+						"h": 10
+					}
+				},
+				{
+					"filename": "tiny_zombie_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 9,
+						"h": 10
+					},
+					"frame": {
+						"x": 270,
+						"y": 149,
+						"w": 9,
+						"h": 10
+					}
+				},
+				{
+					"filename": "goblin_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 10,
+						"h": 10
+					},
+					"frame": {
+						"x": 264,
+						"y": 270,
+						"w": 10,
+						"h": 10
+					}
+				},
+				{
+					"filename": "tiny_zombie_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 8,
+						"w": 9,
+						"h": 8
+					},
+					"frame": {
+						"x": 280,
+						"y": 0,
+						"w": 9,
+						"h": 8
+					}
+				},
+				{
+					"filename": "tiny_zombie_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 7,
+						"w": 9,
+						"h": 9
+					},
+					"frame": {
+						"x": 280,
+						"y": 8,
+						"w": 9,
+						"h": 9
+					}
+				},
+				{
+					"filename": "coin_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 2,
+						"h": 7
+					},
+					"frame": {
+						"x": 61,
+						"y": 122,
+						"w": 2,
+						"h": 7
+					}
+				},
+				{
+					"filename": "coin_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 4,
+						"h": 7
+					},
+					"frame": {
+						"x": 59,
+						"y": 57,
+						"w": 4,
+						"h": 7
+					}
+				},
+				{
+					"filename": "coin_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 4,
+						"h": 7
+					},
+					"frame": {
+						"x": 154,
+						"y": 46,
+						"w": 4,
+						"h": 7
+					}
+				},
+				{
+					"filename": "coin_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 6,
+						"h": 7
+					},
+					"frame": {
+						"x": 254,
+						"y": 276,
+						"w": 6,
+						"h": 7
+					}
+				},
+				{
+					"filename": "skull.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 6,
+						"h": 6
+					},
+					"frame": {
+						"x": 52,
+						"y": 155,
+						"w": 6,
+						"h": 6
+					}
+				},
+				{
+					"filename": "wall_side_top_right.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 5,
+						"h": 4
+					},
+					"frame": {
+						"x": 85,
+						"y": 110,
+						"w": 5,
+						"h": 4
+					}
+				},
+				{
+					"filename": "wall_side_top_left.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 12,
+						"w": 5,
+						"h": 4
+					},
+					"frame": {
+						"x": 225,
+						"y": 94,
+						"w": 5,
+						"h": 4
+					}
+				},
+				{
+					"filename": "chest_full_open_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 16,
+						"h": 14
+					},
+					"frame": {
+						"x": 209,
+						"y": 181,
+						"w": 16,
+						"h": 14
+					}
+				},
+				{
+					"filename": "chest_mimic_open_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 16,
+						"h": 14
+					},
+					"frame": {
+						"x": 209,
+						"y": 181,
+						"w": 16,
+						"h": 14
+					}
+				},
+				{
+					"filename": "goblin_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 7,
+						"w": 10,
+						"h": 9
+					},
+					"frame": {
+						"x": 240,
+						"y": 239,
+						"w": 10,
+						"h": 9
+					}
+				},
+				{
+					"filename": "ice_zombie_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 8,
+						"h": 16
+					},
+					"frame": {
+						"x": 184,
+						"y": 215,
+						"w": 8,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_zombie_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 10,
+						"h": 15
+					},
+					"frame": {
+						"x": 225,
+						"y": 79,
+						"w": 10,
+						"h": 15
+					}
+				},
+				{
+					"filename": "ice_zombie_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 10,
+						"h": 15
+					},
+					"frame": {
+						"x": 225,
+						"y": 79,
+						"w": 10,
+						"h": 15
+					}
+				},
+				{
+					"filename": "ice_zombie_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 10,
+						"h": 15
+					},
+					"frame": {
+						"x": 225,
+						"y": 79,
+						"w": 10,
+						"h": 15
+					}
+				},
+				{
+					"filename": "ice_zombie_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 12,
+						"h": 13
+					},
+					"frame": {
+						"x": 268,
+						"y": 48,
+						"w": 12,
+						"h": 13
+					}
+				},
+				{
+					"filename": "imp_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 10,
+						"h": 11
+					},
+					"frame": {
+						"x": 270,
+						"y": 218,
+						"w": 10,
+						"h": 11
+					}
+				},
+				{
+					"filename": "muddy_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 16,
+						"h": 13
+					},
+					"frame": {
+						"x": 64,
+						"y": 148,
+						"w": 16,
+						"h": 13
+					}
+				},
+				{
+					"filename": "muddy_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 16,
+						"h": 14
+					},
+					"frame": {
+						"x": 104,
+						"y": 220,
+						"w": 16,
+						"h": 14
+					}
+				},
+				{
+					"filename": "muddy_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 14,
+						"h": 16
+					},
+					"frame": {
+						"x": 120,
+						"y": 220,
+						"w": 14,
+						"h": 16
+					}
+				},
+				{
+					"filename": "muddy_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 138,
+						"y": 268,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "necromancer_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 13,
+						"h": 15
+					},
+					"frame": {
+						"x": 12,
+						"y": 268,
+						"w": 13,
+						"h": 15
+					}
+				},
+				{
+					"filename": "necromancer_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 12,
+						"h": 17
+					},
+					"frame": {
+						"x": 157,
+						"y": 202,
+						"w": 12,
+						"h": 17
+					}
+				},
+				{
+					"filename": "necromancer_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 4,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 225,
+						"y": 0,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "necromancer_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 194,
+						"y": 268,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "swampy_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 16,
+						"h": 13
+					},
+					"frame": {
+						"x": 238,
+						"y": 36,
+						"w": 16,
+						"h": 13
+					}
+				},
+				{
+					"filename": "swampy_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 16,
+						"h": 14
+					},
+					"frame": {
+						"x": 238,
+						"y": 49,
+						"w": 16,
+						"h": 14
+					}
+				},
+				{
+					"filename": "swampy_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 14,
+						"h": 16
+					},
+					"frame": {
+						"x": 238,
+						"y": 63,
+						"w": 14,
+						"h": 16
+					}
+				},
+				{
+					"filename": "swampy_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 124,
+						"y": 268,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "tiny_zombie_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 7,
+						"w": 9,
+						"h": 9
+					},
+					"frame": {
+						"x": 280,
+						"y": 8,
+						"w": 9,
+						"h": 9
+					}
+				},
+				{
+					"filename": "zombie_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 8,
+						"h": 16
+					},
+					"frame": {
+						"x": 184,
+						"y": 199,
+						"w": 8,
+						"h": 16
+					}
+				},
+				{
+					"filename": "zombie_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 10,
+						"h": 15
+					},
+					"frame": {
+						"x": 254,
+						"y": 48,
+						"w": 10,
+						"h": 15
+					}
+				},
+				{
+					"filename": "zombie_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 10,
+						"h": 15
+					},
+					"frame": {
+						"x": 254,
+						"y": 48,
+						"w": 10,
+						"h": 15
+					}
+				},
+				{
+					"filename": "zombie_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 10,
+						"h": 15
+					},
+					"frame": {
+						"x": 254,
+						"y": 48,
+						"w": 10,
+						"h": 15
+					}
+				},
+				{
+					"filename": "zombie_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 12,
+						"h": 14
+					},
+					"frame": {
+						"x": 182,
+						"y": 268,
+						"w": 12,
+						"h": 14
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}
