@@ -3,10 +3,27 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "resources/dungeon-01.tmx",
     "expandedProjectPaths": [
+        "resources",
+        ".",
+        "public"
     ],
     "fileStates": {
+        "": {
+            "scaleInEditor": 3
+        },
+        "resources/dungeon-01.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 605,
+                "y": 274.33333333333326
+            }
+        },
+        "resources/dungeon-01.tmx#dungeon": {
+            "scaleInDock": 4
+        }
     },
     "last.exportedFilePath": "D:/src/WebGame/public/tiles",
     "last.imagePath": "D:/src/WebGame/public/tiles",
@@ -17,9 +34,11 @@
     "map.tileWidth": 16,
     "map.width": 100,
     "openFiles": [
+        "resources/dungeon-01.tmx"
     ],
     "project": "scene.tiled-project",
     "recentFiles": [
+        "resources/dungeon-01.tmx"
     ],
     "tileset.embedInMap": true,
     "tileset.tileSize": {
