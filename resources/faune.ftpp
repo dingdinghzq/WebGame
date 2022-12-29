@@ -2,12 +2,10 @@
   "meta": {
     "version": "0.6.7"
   },
-  "savePath": "D:\\src\\WebGame\\public\\character",
+  "savePath": "C:\\src\\WebGame\\public\\character",
   "images": [],
   "folders": [
-    "D:/Downloads/legend of faune files/Sprites/Player/sprites/walk-down",
-    "D:/Downloads/legend of faune files/Sprites/Player/sprites/walk-side",
-    "D:/Downloads/legend of faune files/Sprites/Player/sprites/walk-up"
+    "C:/Users/jhong/Downloads/Sprites/Player/sprites"
   ],
   "packOptions": {
     "textureName": "faune",
@@ -21,19 +19,19 @@
     "filter": "none",
     "exporter": "Phaser 3",
     "fileName": "pack-result",
-    "savePath": "D:\\src\\WebGame\\public\\character",
+    "savePath": "C:\\src\\WebGame\\public\\character",
     "width": 2048,
     "height": 2048,
     "fixedSize": false,
     "powerOfTwo": false,
     "padding": 0,
     "extrude": 0,
-    "allowRotation": true,
+    "allowRotation": false,
     "allowTrim": true,
     "trimMode": "trim",
     "alphaThreshold": "0",
     "detectIdentical": true,
-    "packer": "OptimalPacker",
-    "packerMethod": "Automatic"
+    "packer": "MaxRectsPacker",
+    "packerMethod": "Smart"
   }
 }

@@ -12,6 +12,10 @@ export default class GameUI extends Phaser.Scene
 
     create()
     {
+        const coinLabel = this.add.text(5, 20, '0');
+        sceneEvents.on('coin-changed', (coins:number) => {
+            coinLabel.setText(coins.toString())
+        });
         this.hearts = this.add.group(
             {
                 classType: Phaser.GameObjects.Image
@@ -37,7 +41,7 @@ export default class GameUI extends Phaser.Scene
         this.hearts.children.each((go, idx)=>
         {
             const heart = go as Phaser.GameObjects.Image
-            if (idx <= health)
+            if (idx < health)
             {
                 heart.setTexture('ui-heart-full')
             }
